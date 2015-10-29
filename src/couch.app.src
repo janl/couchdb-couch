@@ -29,24 +29,24 @@
     {applications, [
         % stdlib
         kernel,
-        stdlib,
-        crypto,
-        sasl,
-        inets,
-        ssl,
-        os_mon,
+        stdlib
+        % crypto,
+        % sasl,
+        % inets,
+        % ssl,
+        % os_mon,
 
         % Upstream deps
-        ibrowse,
-        mochiweb,
-        oauth,
+        % ibrowse,
+        % mochiweb,
+        % oauth,
 
         % ASF deps
-        couch_epi,
-        b64url,
-        couch_log,
-        couch_event,
-        ioq,
-        couch_stats
+        % couch_epi,
+        % b64url,
+        % couch_log,
+        % couch_event,
+        % ioq,
+        % couch_stats
     ]}
 ]}.

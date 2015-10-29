@@ -17,17 +17,17 @@
 
 deps() ->
     [
-        sasl,
-        inets,
-        os_mon,
-        crypto,
-        public_key,
-        ssl,
-        oauth,
-        ibrowse,
-        mochiweb,
-        config,
-        couch_log
+        % sasl,
+        % inets,
+        % os_mon,
+        % crypto,
+        % public_key,
+        % ssl,
+        % oauth,
+        % ibrowse,
+        % mochiweb,
+        % config,
+        % couch_log
     ].
 
 
